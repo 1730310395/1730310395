@@ -1,6 +1,6 @@
 -👋你好，我是  蓝湛
--👀我对...感兴趣
-- 🌱 I’m currently learning java
+-👀
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  1730310395@qq.com
 
